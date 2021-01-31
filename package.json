@@ -1,0 +1,23 @@
+{
+  "name": "fb-downloader-apis",
+  "version": "1.0.0",
+  "description": "Fb Downloader apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tikamchand06@bitbucket.org/tikamchand06/fb-downloader-apis.git"
+  },
+  "author": "WHYPHYLLC Agency",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tikamchand06/fb-downloader-apis#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "got": "^11.8.1",
+    "nodemailer": "^6.4.17"
+  }
+}
